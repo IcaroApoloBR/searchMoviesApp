@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="">
+    <img src="https://github.com/IcaroApoloBR/searchMoviesApp/blob/main/.github/Capturar.PNG">
 </h1>
 
 <h1>
-    <img src="">
+    <img src="https://github.com/IcaroApoloBR/searchMoviesApp/blob/main/.github/Capturar2.PNG">
 </h1>
 
 # Índice
